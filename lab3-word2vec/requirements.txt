@@ -1,0 +1,5 @@
+gensim==4.3.3
+nltk==3.9.2
+matplotlib==3.10.0
+scikit-learn==1.7.0
+ipykernel==6.29.0
